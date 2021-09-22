@@ -1,7 +1,13 @@
-#Requirements:
+#Embedding Node Structural Role Identity Using Stress Majorization
+
+
+
+
+
+##Requirements:
 env.yml
 
-#How to use:
+##How to use:
 Our model				stress\models\sm2vec.py
 vis_barbell.py   		embedding visualization on barbell graph
 vis_karate.py			embedding visualization on karate network
@@ -10,7 +16,7 @@ evaluate_brazil.py		node classification experiments on the brazil air-traffic ne
 evaluate_europe.py		node classification experiments on the europe air-traffic networks
 evaluate_usa.py			node classification experiments on the usa air-traffic networks
 
-#Code reference:
+##Code reference:
 
 This code is built upon the code of the following paper:
 
@@ -22,7 +28,7 @@ Ribeiro, Leonardo FR, Pedro HP Saverese, and Daniel R. Figueiredo. "struc2vec: L
 
 
 
-# Citation
+## Citation
 
 If you find this useful, please use the following citation
 ```
