@@ -9,11 +9,17 @@ env.yml
 
 ## How to use:
 Our model				stress\models\sm2vec.py
+
 vis_barbell.py   		embedding visualization on barbell graph
+
 vis_karate.py			embedding visualization on karate network
+
 evaluate_synthetic.py   node clustering experiments on synthetic graphs (default: 'varied' setting)
+
 evaluate_brazil.py		node classification experiments on the brazil air-traffic networks
+
 evaluate_europe.py		node classification experiments on the europe air-traffic networks
+
 evaluate_usa.py			node classification experiments on the usa air-traffic networks
 
 ## Code reference:
