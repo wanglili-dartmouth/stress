@@ -42,6 +42,7 @@ If you find this useful, please use the following citation
   title={Embedding Node Structural Role Identity Using Stress Majorization},
   author={Wang, Lili and Huang, Chenghan and Ma, Weicheng and Lu, Ying and Vosoughi, Soroush},
   booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
-
+  year={2021}
+  
 }
 
